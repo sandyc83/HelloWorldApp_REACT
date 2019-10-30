@@ -1,0 +1,10 @@
+.App {
+  font-family: fantasy;
+  text-align: center;
+  font-size: 30px;
+}
+
+.test {
+  font-family: cursive;
+  border-top-style: dashed;
+}
