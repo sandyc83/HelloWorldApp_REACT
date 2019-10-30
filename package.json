@@ -5,8 +5,14 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "@unimodules/core": "4.0.0",
+    "@unimodules/react-native-adapter": "4.0.0",
+    "expo-asset": "7.0.0",
     "react": "16.11.0",
     "react-dom": "16.11.0",
+    "react-native-remote-svg": "2.0.6",
+    "react-native-web": "0.11.7",
+    "react-native-webview": "7.4.3",
     "react-scripts": "3.2.0"
   },
   "devDependencies": {
