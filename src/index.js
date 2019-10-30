@@ -10,6 +10,7 @@ function App() {
       <div className="test">
         <h2>This is my first code in REACT!</h2>
       </div>
+      <img src="logo.svg" alt="logo" />
     </div>
   );
 }
