@@ -12,7 +12,7 @@ function App() {
         <h2>This is my first code in REACT!</h2>
       </div>
       <div className="Logo" id="Logo">
-        <image source={require("./logo.svg")} alt={"Logo goes here"} />
+        <Image source={require("./logo.svg")} alt={"Logo goes here"} />
         <image source={"logo.svg"}>logo goes here</image>
       </div>
     </div>
